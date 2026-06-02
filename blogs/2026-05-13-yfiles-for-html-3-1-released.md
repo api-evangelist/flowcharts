@@ -1,0 +1,8 @@
+---
+title: yFiles for HTML 3.1 released
+url: https://www.yfiles.com/the-yfiles-sdk/web/yfiles-for-html/release-notes
+date: '2026-05-13'
+author: ''
+feed_url: https://www.yworks.com/newsfeed
+---
+Following the major API overhaul in version 3.0, yFiles for HTML 3.1 is an incremental update that adds more layout configuration options and expands what you can do with visualization. This release adds heat map support for visualizing metrics directly on your graph elements, and introduces squircle shapes for nodes and labels. It also provides more control over hierarchical layouts with improved stability, symmetry, sequence constraint handling, and bend reduction, and introduces a faster edge bundling variant for dense graphs. WebGL rendering now includes port support, level-of-detail control for labels, and additional animations, improving interaction and performance for graphs with thousands of elements. The library is now split into more granular modules , allowing build tools to strip unused layouts and features without any API changes on your part. Tooltips and popovers have also been improved, making it easier to show rich, contextual information directly on the graph. We've also added new source code demos that showcase these features in real-world scenarios —-like the Biofabrics demo for tabular graph visualization using biofabric layouts, the Event Timeline demo for visualizing dynamic temporal data, and the Space & Time demo for geographic network analysis. Explore the demos to see what's possible. To learn more about these new features see also the About yFiles for HTML Version 3.1 page on our yfiles.com website!
