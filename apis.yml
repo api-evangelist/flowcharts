@@ -10,7 +10,7 @@ description: >-
   that practitioners use to create and exchange flowcharts as part of API
   documentation, design, and operations.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/flowcharts/refs/heads/main/apis.yml
 created: '2025-01-01'
