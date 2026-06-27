@@ -27,13 +27,13 @@ apis: []
 common:
   - type: Documentation
     url: https://en.wikipedia.org/wiki/Flowchart
-  - type: Standard
+  - type: Standards
     url: https://www.iso.org/standard/11955.html
-  - type: Tool
+  - type: Tools
     url: https://mermaid.js.org/syntax/flowchart.html
-  - type: Tool
+  - type: Tools
     url: https://graphviz.org/
-  - type: Tool
+  - type: Tools
     url: https://plantuml.com/activity-diagram-beta
 maintainers:
   - FN: Kin Lane
