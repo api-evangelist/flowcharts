@@ -1,4 +1,4 @@
-# Flowcharts (flowcharts)
+# Flowcharts
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,42 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Flowcharts are a visual modeling technique used across software engineering, systems analysis, business process design, and education to depict the steps, decisions, and flow of a process or algorithm. Standard flowchart notation uses a small vocabulary of shapes — rectangles for process steps, diamonds for decisions, parallelograms for input and output, and arrows for flow direction — to make procedures and logic easier to communicate, review, and refine.
+Flowcharts are a visual modeling technique used across software engineering, systems analysis, business process design, and education to depict the steps, decisions, and flow of a process or algorithm. Within an API context, flowcharts are used to model workflows, integration patterns, retry logic, authentication flows, and the orchestration of services. This topic indexes the standards, notations, libraries, and rendering tools that practitioners use to create and exchange flowcharts as part of API documentation, design, and operations.
 
-Within an API context, flowcharts are widely used to model workflows, integration patterns, retry and error-handling logic, authentication flows, webhook delivery, and the orchestration of multiple services. They sit alongside sequence diagrams, state machines, and BPMN as one of the foundational modeling tools that API teams use to document, design, and explain their systems. This topic indexes the standards, notations, libraries, and rendering tools that practitioners reach for when producing flowcharts as part of API documentation, design reviews, runbooks, and architecture artifacts.
+**Areas:** Diagramming · Documentation · Flowcharts · Modeling · Visualization · Workflows
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/flowcharts/refs/heads/main/apis.yml)
+## Flowcharts on APIs.io
 
-## Scope
+Everything profiled for Flowcharts is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/flowcharts/](https://apis.io/providers/flowcharts/)** — or go straight to one of the APIs or properties below.
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+## Where to find this API
 
-## Tags
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- Diagrams
-- Documentation
-- Flowcharts
-- Modeling
-- Visualization
-- Workflows
+- [Documentation](https://en.wikipedia.org/wiki/Flowchart)
 
-## Common Properties
+## API Evangelist rating
 
-- [Wikipedia: Flowchart](https://en.wikipedia.org/wiki/Flowchart)
-- [ISO 5807 — Information processing — Documentation symbols](https://www.iso.org/standard/11955.html)
-- [Mermaid — Flowchart syntax](https://mermaid.js.org/syntax/flowchart.html)
-- [Graphviz](https://graphviz.org/)
-- [PlantUML — Activity diagrams](https://plantuml.com/activity-diagram-beta)
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-## Timestamps
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
+## How this profile is made
 
-## Maintainers
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-**FN:** Kin Lane
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Flowcharts: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-**Email:** kin@apievangelist.com
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/flowcharts/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
